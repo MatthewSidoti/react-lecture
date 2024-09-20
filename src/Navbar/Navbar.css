@@ -1,0 +1,12 @@
+#top-navbar{
+  display: flex;
+  justify-content: space-around;
+}
+
+h1 {
+  color: pink;
+}
+
+p{
+  color: aqua;
+}
